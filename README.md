@@ -5,9 +5,11 @@ shadows, ember/coral reds, muted sage, smoky blue and mauve, and warm ivory
 text. The wallpaper is the focal point; surfaces stay quiet and near-opaque,
 with an ember-to-mauve active-window edge.
 
-The palette is sampled from the wallpaper set (equal-area Pillow sampling),
-not borrowed from a stock theme, then brightened for a pure-black terminal
-base so every foreground colour stays at WCAG 4.5:1 or better.
+The palette is sampled from the wallpaper set, not borrowed from a stock theme,
+then brightened for a pure-black terminal base. The deliberately deep crimson
+`red` measures **4.21:1** on black: suitable for large-text/non-text UI contrast,
+but below WCAG's 4.5:1 normal-text target. See the [palette assessment](docs/palette-assessment.md)
+for measured token contrasts, colour coverage and limitations.
 
 ## Palette
 
@@ -33,9 +35,14 @@ Blue and magenta were shifted toward periwinkle (hue ~228°) and lavender (hue
 `red` sits at hue ~348°, clearly separated from the ember accent at ~12°, so the
 high-usage meter reads as crimson rather than tomato.
 
-`backgrounds/` contains all twelve Supernal wallpapers (the four originals plus
-three later batches of four), with original filenames. No original is modified
-or moved.
+`backgrounds/` contains fourteen Supernal wallpapers, including the latest
+`HV01fe3WMAAb6XX.jpg` and `HVE4oTOX0AAtg9d.jpg`, with original filenames and
+unmodified image bytes. No source image is moved or overwritten.
+
+The [full palette assessment](docs/palette-assessment.md) finds no required ANSI
+remapping for this batch. Soft rose is the strongest optional extra accent for
+the wider collection; the current palette is unchanged. The assessment includes
+a reproducible pixel audit, threshold sensitivity and measured contrast limits.
 
 ## Use
 
