@@ -1,5 +1,7 @@
 # Supernal
 
+Source repository: **[omarchy-supernal-theme](https://github.com/TyphooN-/omarchy-supernal-theme)**.
+
 A dark Omarchy theme built around the Supernal wallpapers: near-black forest
 shadows, ember/coral reds, muted sage, smoky blue and mauve, and warm ivory
 text. The wallpaper is the focal point; surfaces stay quiet and near-opaque,
@@ -43,6 +45,24 @@ The [full palette assessment](docs/palette-assessment.md) finds no required ANSI
 remapping for this batch. Soft rose is the strongest optional extra accent for
 the wider collection; the current palette is unchanged. The assessment includes
 a reproducible pixel audit, threshold sensitivity and measured contrast limits.
+
+## Install
+
+Install and apply the theme from the renamed repository:
+
+```sh
+omarchy theme install https://github.com/TyphooN-/omarchy-supernal-theme.git
+```
+
+Omarchy removes the `omarchy-` prefix and `-theme` suffix from the repository
+name, so it still installs to `~/.config/omarchy/themes/supernal/`. The theme's
+visible name remains **Supernal**; the repository rename does not rename the
+artwork, palette or wallpaper files.
+
+**Back up an existing custom `supernal/` theme directory before installing:**
+Omarchy's installer replaces that directory and then applies the theme. There
+is no need to reinstall or reapply an existing theme just to rename its source
+Git repository.
 
 ## Use
 
