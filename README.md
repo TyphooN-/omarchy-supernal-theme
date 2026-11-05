@@ -53,12 +53,15 @@ theme. Fonts, spacing, opacity and layout are unchanged.
 
 ## Credits
 
-The Supernal wallpapers are the work of **@supernalmystic**. The second set is
-a collaboration between **@supernalmystic** and **@eternalucis**.
+Theme adaptation and palette by **[TyphooN- (@MarketW1zardry)](https://x.com/MarketW1zardry)**.
 
-Source posts (all @supernalmystic):
+The Supernal wallpapers are the work of
+**[@supernalmystic](https://x.com/supernalmystic)**. The second set is a
+collaboration with **[@eternalucis](https://x.com/eternalucis)**.
 
-- Collaboration set with @eternalucis: <https://x.com/supernalmystic/status/2117272712410198362>
+Source posts by [@supernalmystic](https://x.com/supernalmystic):
+
+- Collaboration set with [@eternalucis](https://x.com/eternalucis): <https://x.com/supernalmystic/status/2117272712410198362>
 - <https://x.com/supernalmystic/status/2116335721170554992>
 - <https://x.com/supernalmystic/status/2115906238118555695>
 - <https://x.com/supernalmystic/status/2115549467394912416>
