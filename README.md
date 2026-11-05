@@ -51,6 +51,19 @@ colours from `colors.toml`. This theme contains no executable overrides,
 editor-extension installers or hooks. Icons use the installed `Yaru-red`
 theme. Fonts, spacing, opacity and layout are unchanged.
 
+## Credits
+
+The Supernal wallpapers are the work of **@supernalmystic**. The second set is
+a collaboration between **@supernalmystic** and **@eternalucis**.
+
+Source posts (all @supernalmystic):
+
+- <https://x.com/supernalmystic/status/2117272712410198362>
+- <https://x.com/supernalmystic/status/2116335721170554992>
+- <https://x.com/supernalmystic/status/2115906238118555695>
+- <https://x.com/supernalmystic/status/2115549467394912416>
+- <https://x.com/supernalmystic/status/2112532046216134680>
+
 ## License
 
 GPL-3.0-or-later; see [LICENSE](LICENSE).
