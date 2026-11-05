@@ -58,7 +58,7 @@ a collaboration between **@supernalmystic** and **@eternalucis**.
 
 Source posts (all @supernalmystic):
 
-- <https://x.com/supernalmystic/status/2117272712410198362>
+- Collaboration set with @eternalucis: <https://x.com/supernalmystic/status/2117272712410198362>
 - <https://x.com/supernalmystic/status/2116335721170554992>
 - <https://x.com/supernalmystic/status/2115906238118555695>
 - <https://x.com/supernalmystic/status/2115549467394912416>
