@@ -1,0 +1,41 @@
+# Supernal — sampled forest shadows, ember reds, smoke and pale mineral light.
+mode = "dark"
+
+accent = "#d84a3a"
+selection = "#4a3339"
+muted = "#829080"
+
+background = "#000000"
+dark_background = "#0f150f"
+darker_background = "#090e0a"
+lighter_background = "#263829"
+
+foreground = "#fffdf4"
+dark_foreground = "#a3b1a3"
+light_foreground = "#f2eedd"
+bright_foreground = "#fffef6"
+
+# Crimson, not the ember accent: feeds the shell `urgent` role (CPU/GPU/VRAM
+# high-usage bands, alarming meters, error text). Distinct hue from accent.
+red = "#DC143C"
+yellow = "#f0cf8a"
+orange = "#f2a878"
+green = "#bcd58b"
+cyan = "#b7dbda"
+# Blue shifted toward periwinkle + magenta toward lavender so the pair brackets the
+# periwinkle/lavender band (hue ~248-263) that recurs across the Supernal wallpapers
+# (e.g. #8172e5, #baa0e5, #cba0e5) and was previously unrepresented.
+blue = "#98a8e8"
+magenta = "#cba0e5"
+brown = "#c39a7a"
+
+bright_red = "#ff8a76"
+bright_yellow = "#ffe2a4"
+bright_green = "#d5eb9e"
+bright_cyan = "#c9e6e6"
+bright_blue = "#b6c4f0"
+bright_magenta = "#e2c6ef"
+
+# Ember-to-mauve edge, echoed in the source images' red and lavender hues.
+hyprland_active_border = "#d84a3a #c5a4c0 45deg"
+hyprland_inactive_border = "#354036"
