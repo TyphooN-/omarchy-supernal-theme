@@ -89,6 +89,8 @@ collaboration with **[@eternalucis](https://x.com/eternalucis)**.
 
 Source posts by [@supernalmystic](https://x.com/supernalmystic):
 
+- `HW9MVnVXYAEek3i.jpg` and `HW9MWNiXsAA1xNi.jpg`:
+  <https://x.com/supernalmystic/status/2120998040312135964>
 - Collaboration set with [@eternalucis](https://x.com/eternalucis): <https://x.com/supernalmystic/status/2117272712410198362>
 - <https://x.com/supernalmystic/status/2116335721170554992>
 - <https://x.com/supernalmystic/status/2115906238118555695>
