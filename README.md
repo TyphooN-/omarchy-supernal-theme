@@ -37,14 +37,15 @@ Blue and magenta were shifted toward periwinkle (hue ~228°) and lavender (hue
 `red` sits at hue ~348°, clearly separated from the ember accent at ~12°, so the
 high-usage meter reads as crimson rather than tomato.
 
-`backgrounds/` contains fourteen Supernal wallpapers, including the latest
-`HV01fe3WMAAb6XX.jpg` and `HVE4oTOX0AAtg9d.jpg`, with original filenames and
+`backgrounds/` contains sixteen Supernal wallpapers, including the latest
+`HW9MVnVXYAEek3i.jpg` and `HW9MWNiXsAA1xNi.jpg`, with original filenames and
 unmodified image bytes. No source image is moved or overwritten.
 
-The [full palette assessment](docs/palette-assessment.md) finds no required ANSI
-remapping for this batch. Soft rose is the strongest optional extra accent for
-the wider collection; the current palette is unchanged. The assessment includes
-a reproducible pixel audit, threshold sensitivity and measured contrast limits.
+The new pair is dominated by periwinkle and slate blue, with smaller moss,
+bronze and coral accents. The [palette assessment](docs/palette-assessment.md)
+finds no new recurring colour gap and no need to change the palette or remap
+ANSI colours. It includes the pixel audit, threshold sensitivity and contrast
+limits.
 
 ## Install
 
