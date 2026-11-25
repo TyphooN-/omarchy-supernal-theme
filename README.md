@@ -29,7 +29,9 @@ for measured token contrasts, colour coverage and limitations.
 | Blue | `#98a8e8` | Periwinkle-blue (shifted from steel to bracket the wallpaper periwinkle band) |
 | Magenta | `#cba0e5` | Lavender (shifted to bracket the wallpaper periwinkle band from above) |
 | Brown | `#c39a7a` | Warm earth tone |
-| Bright variants | `bright_*` | Readable bright versions of each ANSI colour |
+| Bright green | `#9df9ab` | Vivid mint for the wallpapers' bright green highlights |
+| Bright cyan | `#a5edff` | Pale sky cyan for vivid blue-green highlights |
+| Other bright variants | `bright_*` | Readable bright versions of the remaining ANSI colours |
 
 Blue and magenta were shifted toward periwinkle (hue ~228°) and lavender (hue
 ~277°) so the pair brackets the periwinkle/lavender band (hue ~248–263°, e.g.
@@ -40,10 +42,13 @@ high-usage meter reads as crimson rather than tomato.
 `backgrounds/` contains twenty Supernal wallpapers with their original
 filenames and unmodified image bytes.
 
-Periwinkle and blue-violet already cover much of the latest set. Bright green
-and cyan highlights push beyond the muted palette in a few images, but the
-[palette assessment](docs/palette-assessment.md) finds no gap large and
-widespread enough to justify changing the palette or remapping ANSI colours.
+Periwinkle and blue-violet already cover much of the latest set. Its vivid
+green and cyan highlights were the main mismatch, so only `bright_green`
+(`#d5eb9e` → `#9df9ab`) and `bright_cyan` (`#c9e6e6` → `#a5edff`) were made
+more saturated; normal `green`, `cyan` and every other role are unchanged.
+Uncovered chromatic area falls from 3.40% to 1.46% of an average new image and
+from 2.59% to 2.09% across all twenty. See the
+[palette assessment](docs/palette-assessment.md) for per-image results and limits.
 
 ## Install
 
