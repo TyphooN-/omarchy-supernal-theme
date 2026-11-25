@@ -37,15 +37,13 @@ Blue and magenta were shifted toward periwinkle (hue ~228°) and lavender (hue
 `red` sits at hue ~348°, clearly separated from the ember accent at ~12°, so the
 high-usage meter reads as crimson rather than tomato.
 
-`backgrounds/` contains sixteen Supernal wallpapers, including the latest
-`HW9MVnVXYAEek3i.jpg` and `HW9MWNiXsAA1xNi.jpg`, with original filenames and
-unmodified image bytes. No source image is moved or overwritten.
+`backgrounds/` contains twenty Supernal wallpapers with their original
+filenames and unmodified image bytes.
 
-The new pair is dominated by periwinkle and slate blue, with smaller moss,
-bronze and coral accents. The [palette assessment](docs/palette-assessment.md)
-finds no new recurring colour gap and no need to change the palette or remap
-ANSI colours. It includes the pixel audit, threshold sensitivity and contrast
-limits.
+Periwinkle and blue-violet already cover much of the latest set. Bright green
+and cyan highlights push beyond the muted palette in a few images, but the
+[palette assessment](docs/palette-assessment.md) finds no gap large and
+widespread enough to justify changing the palette or remapping ANSI colours.
 
 ## Install
 
@@ -89,6 +87,8 @@ collaboration with **[@eternalucis](https://x.com/eternalucis)**.
 
 Source posts by [@supernalmystic](https://x.com/supernalmystic):
 
+- `HX7HW5-XkAEEvSb.jpg`, `HX7HX4IXMAAT3Ac.jpg`, `HX7HXSwWAAEDFQj.jpg`, and
+  `HX7HYbXXAAAaJCd.jpg`: <https://x.com/supernalmystic/status/2125355583541047391>
 - `HW9MVnVXYAEek3i.jpg` and `HW9MWNiXsAA1xNi.jpg`:
   <https://x.com/supernalmystic/status/2120998040312135964>
 - Collaboration set with [@eternalucis](https://x.com/eternalucis): <https://x.com/supernalmystic/status/2117272712410198362>
